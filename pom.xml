@@ -48,7 +48,7 @@
 		<dependency>
 			<groupId>com.linecorp.armeria</groupId>
 			<artifactId>armeria</artifactId>
-			<version>0.97.0</version>
+			<version>1.24.3</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.linecorp.armeria/armeria-spring-boot-autoconfigure -->
 		<dependency>
